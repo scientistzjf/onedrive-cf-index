@@ -15,7 +15,7 @@ body {
 body {
   font-family: var(--base-font-family);
   -webkit-font-smoothing: antialiased;
-  background: #11454e;
+  background-color: #11454e;
   display: flex;
   align-items: center;
   justify-content: space-between;
