@@ -56,7 +56,11 @@ a {
   width: calc(100% - 40px);
   max-width: 800px;
   margin: 0 auto;
-  background-color: #11454e;
+  background-color: #497299;
+}
+
+.container h2 {
+    color: rgb(86, 180, 204);
 }
 
 .path {
@@ -138,7 +142,7 @@ a.item:hover {
   font-family: var(--base-font-family) !important;
   margin-top: 1.5rem;
 }
-.markdown-body span {
+.markdown-body strong {
   color: hsl(194, 68%, 61%);
 }
 
