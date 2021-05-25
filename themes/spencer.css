@@ -56,7 +56,7 @@ a {
   width: calc(100% - 40px);
   max-width: 800px;
   margin: 0 auto;
-  background-color: #244177;
+  background-color: #1f3a6d;
 }
 
 .container h2 {
@@ -78,7 +78,7 @@ a {
   overflow-x: auto;
   display: flex;
   flex-flow: column nowrap;
-  background: white;
+  background: rgb(166, 190, 226);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
   border-radius: 8px;
 }
@@ -87,7 +87,7 @@ a.item {
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: #000000;
+  color: #53460a;
   padding: 0.8rem 1rem;
   transition: 0.2s all ease-in-out;
 }
@@ -143,7 +143,7 @@ a.item:hover {
   margin-top: 1.5rem;
 }
 .markdown-body strong {
-  color: hsl(194, 68%, 61%);
+  color: hsl(143, 56%, 44%);
 }
 
 .loading-label {
